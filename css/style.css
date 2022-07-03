@@ -5,6 +5,9 @@ body{
     height: 50px;
     width: 50px;
 }
+.container-fluid p a{
+    text-decoration: none;
+}
 .container{
     background-color: #fff;
 }
